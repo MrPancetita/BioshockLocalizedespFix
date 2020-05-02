@@ -5,7 +5,7 @@ Fix for Bioshock Remastered Spanish Localization
 
 It seems that the font used in 'hacking' terminals does not support non ASCII characters. 
 
-![Bug Picture](./Assets/20200501214236_1.jpg")
+![Bug Picture](./Assets/20200501214236_1.jpg)
 
 
 ## How to
